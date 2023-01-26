@@ -1,0 +1,5 @@
+site_name: Manage Python the easy way
+
+nav:
+  - MacOS version: index.md
+theme: readthedocs
